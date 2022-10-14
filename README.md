@@ -2,7 +2,7 @@
 HBNB project
 
 ## Tests.
-Tests are written in the `[Tests](./tests)` directory
+Tests are written in the [`Tests`](./tests) directory
 
 All the functions are tested with unit tests. e.g
 
